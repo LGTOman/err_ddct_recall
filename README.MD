@@ -1,6 +1,6 @@
 # Warning
 
-This script may be buggy. It has not been fully debugged.
+This script may be buggy. It has is being released as Alpha code.
 
 # Introduction
 
